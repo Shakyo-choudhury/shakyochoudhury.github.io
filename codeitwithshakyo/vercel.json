@@ -3,7 +3,7 @@
       {
         "src": "codewithshakyo/wsgi.py",
         "use": "@vercel/python",
-        "config": {"maxlambdasize":"15mb", "runtime":"python 3.8"}
+        "config": {"maxLambdasize":"15mb", "runtime":"python 3.8"}
       }
     ],
     "routes": [
