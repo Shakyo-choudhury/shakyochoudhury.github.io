@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-_v2env$wv_z6gay4q-xzwr#3w8%l84#nj=(@fr*dt230s&z-o@
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # dont use DEBUG = true in production and initialize the url in ALLOWED_HOSTS       
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
 # '127.0.0.1',  'codeitwithshakyo.herokuapp.com'
@@ -173,4 +173,4 @@ SOCIAL_AUTH_FACEBOOK_SECRET = 'e355f9a28900fc10ecb0c9cfb848d4c1'
 # Social Auth Login Twitter
 SOCIAL_AUTH_TWITTER_KEY = '26581008'
 SOCIAL_AUTH_TWITTER_SECRET = 'GRdThMqwWNYIPe7xYmWyKHdiusHEJAgXgQRTh6JxFpkBISlFOg'
-ID='bom1::j7vzl-1693743715338-fdb4be7f4749'
+# ID='bom1::j7vzl-1693743715338-fdb4be7f4749'
